@@ -1,5 +1,5 @@
 
-## Hi, I'm Agostinho, Mobile developer
+## Hi, I'm Agostinho, Android Developer
 <div align="start">
   <a href="https://github.com/agostinhodossantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agostinhodossantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
