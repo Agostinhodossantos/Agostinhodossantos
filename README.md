@@ -1,10 +1,6 @@
 
 ## 👋 Hello, I'm Agostinho Android developer
-<div align="start">
-  <a href="https://github.com/agostinhodossantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agostinhodossantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinhodossantos&layout=compact&langs_count=10&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="ago-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="ago-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
